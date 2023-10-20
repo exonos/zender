@@ -5945,7 +5945,6 @@ class Api_Controller extends MVC_Controller
                 else:
                     $limit = 10;
                 endif;
-
                 $accounts = $this->api->getWaAccounts($api["uid"], abs($page), abs($limit));
 
                 $accountArray = [];
