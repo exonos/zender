@@ -1,0 +1,12 @@
+Message: Call to a member function exec() on bool at line 472
+File: C:\laragon\www\zender\system\plugins\mvc_pdo.php (10/19/2023 6:16 AM)
+
+Message: Call to a member function exec() on bool at line 472
+File: C:\laragon\www\zender\system\plugins\mvc_pdo.php (10/19/2023 6:16 AM)
+
+Message: Call to a member function exec() on bool at line 472
+File: C:\laragon\www\zender\system\plugins\mvc_pdo.php (10/19/2023 6:16 AM)
+
+Message: Array to string conversion at line 5951
+File: C:\laragon\www\zender\system\controllers\api.php (10/19/2023 5:15 PM)
+
